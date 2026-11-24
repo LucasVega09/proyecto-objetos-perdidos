@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "362404020531",
+    "project_id": "objetos-perdidos-5509d",
+    "storage_bucket": "objetos-perdidos-5509d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362404020531:android:c3f07328f4348e50bf3e46",
+        "android_client_info": {
+          "package_name": "com.example.objetos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362404020531-vj32oa82vd5lb6g41fhrdvruhh4bjfc3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.objetos",
+            "certificate_hash": "ae68135884ef37c160d2c31599d472e59fff02d2"
+          }
+        },
+        {
+          "client_id": "362404020531-h5rrg1lsv8mnnltskks1ktpivc57e95i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8-JVX_r6hJKUSsS-pKHD8alXHBjWjhzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362404020531-h5rrg1lsv8mnnltskks1ktpivc57e95i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
